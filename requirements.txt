@@ -1,0 +1,11 @@
+streamlit
+streamlit-folium
+folium
+networkx
+xgboost
+scikit-learn
+pandas
+numpy
+langchain-groq
+python-dotenv
+streamlit-geolocation

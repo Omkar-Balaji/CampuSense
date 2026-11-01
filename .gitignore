@@ -1,0 +1,6 @@
+.env
+data/campusense.db
+__pycache__/
+*.pyc
+ml_pipeline/*.pkl
+qr_codes/
